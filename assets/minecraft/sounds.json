@@ -38,21 +38,6 @@
   },
   
   
-  "block.portal.travel": {
-    "sounds": [
-      "portal/travel"
-    ],
-    "subtitle": "subtitles.block.portal.travel",
-	"replace": true
-  },
-  "block.portal.trigger": {
-    "sounds": [
-      "portal/trigger"
-    ],
-    "subtitle": "subtitles.block.portal.trigger",
-	"replace": true
-  },
-  
   "entity.bat.loop": {
     "sounds": [
       "mob/bat/loop"
@@ -95,6 +80,15 @@
 	"replace": true
   },
   
+  
+  "block.portal.travel": {
+    "sounds": [
+      "portal/travel"
+    ],
+    "subtitle": "subtitles.block.portal.travel",
+	"replace": true
+  },
+  
   "ui.stonecutter.take_result": {
     "sounds": [
       {
@@ -120,94 +114,6 @@
 	"replace": true
   },
   
-  
-  "block.ender_chest.close": {
-    "sounds": [
-      "block/enderchest/close"
-    ],
-    "subtitle": "subtitles.block.ender_chest.close",
-	"replace": true
-  },
-  "block.ender_chest.open": {
-    "sounds": [
-      "block/enderchest/open"
-    ],
-    "subtitle": "subtitles.block.ender_chest.open",
-	"replace": true
-  },
-  "block.fence_gate.close": {
-    "sounds": [
-      "block/fence_gate/close1",
-      "block/fence_gate/close2"
-    ],
-    "subtitle": "subtitles.block.fence_gate.close",
-	"replace": true
-  },
-  "block.fence_gate.open": {
-    "sounds": [
-      "block/fence_gate/open1",
-      "block/fence_gate/open2"
-    ],
-    "subtitle": "subtitles.block.fence_gate.open",
-	"replace": true
-  },
-  "block.iron_door.close": {
-    "sounds": [
-      "block/iron_door/close1",
-      "block/iron_door/close2",
-      "block/iron_door/close3",
-      "block/iron_door/close4"
-    ],
-    "subtitle": "subtitles.block.iron_door.close",
-	"replace": true
-  },
-  "block.iron_door.open": {
-    "sounds": [
-      "block/iron_door/open1",
-      "block/iron_door/open2",
-      "block/iron_door/open3",
-      "block/iron_door/open4"
-    ],
-    "subtitle": "subtitles.block.iron_door.open",
-	"replace": true
-  },
-  "block.wooden_door.close": {
-    "sounds": [
-      "block/wooden_door/close2",
-      "block/wooden_door/close5",
-      "block/wooden_door/close6"
-    ],
-    "subtitle": "subtitles.block.wooden_door.close",
-	"replace": true
-  },
-  "block.wooden_door.open": {
-    "sounds": [
-      "block/wooden_door/open3",
-      "block/wooden_door/open4"
-    ],
-    "subtitle": "subtitles.block.wooden_door.open",
-	"replace": true
-  },
-  "block.wooden_trapdoor.close": {
-    "sounds": [
-      "block/wooden_trapdoor/close1",
-      "block/wooden_trapdoor/close2",
-      "block/wooden_trapdoor/close3"
-    ],
-    "subtitle": "subtitles.block.wooden_trapdoor.close",
-	"replace": true
-  },
-  "block.wooden_trapdoor.open": {
-    "sounds": [
-      "block/wooden_trapdoor/open1",
-      "block/wooden_trapdoor/open2",
-      "block/wooden_trapdoor/open3",
-      "block/wooden_trapdoor/open4",
-      "block/wooden_trapdoor/open5"
-    ],
-    "subtitle": "subtitles.block.wooden_trapdoor.open",
-	"replace": true
-  },
 
   "entity.enderman.scream": {
     "sounds": [

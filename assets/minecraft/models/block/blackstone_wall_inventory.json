@@ -2,7 +2,7 @@
   "parent": "minecraft:block/template_wall_inventory_bottom_top",
   "textures": {
     "wall": "minecraft:block/blackstone",
-		"wall_bottom": "block/blackstone",
+		"wall_bottom": "block/blackstone_top",
 		"wall_top": "block/blackstone_top"
   }
 }

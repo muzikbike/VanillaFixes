@@ -3,9 +3,6 @@
 		"subtitles.ambient.underwater.enter": "Water splorches",
 		"subtitles.ambient.underwater.exit": "Water blouches",
 		
-		"subtitles.block.portal.travel": "Space rematerializes",
-		"subtitles.block.portal.trigger": "Space distorts",
-		
 		"subtitles.entity.bat.loop": "Bat flutters",
 		"subtitles.entity.ghast.scream": "Ghast hoots",
 		"subtitles.entity.wolf.howl": "Wolf howls",
@@ -13,25 +10,6 @@
 		"subtitles.entity.minecart.inside": "Minecart clatters",
 		
 		"subtitles.item.elytra.flying": "Soaring",
-		
-		"subtitles.ui.stonecutter.take_result": "Stonecutter chops",
-		
-		
-		"subtitles.entity.zombie.destroy_egg": "Turtle egg stomped",
-		
-		
-		"subtitles.block.ender_chest.close": "Ender Chest closes",
-		"subtitles.block.ender_chest.open": "Ender Chest opens",
-		"subtitles.block.fence_gate.close": "Fence gate closes",
-		"subtitles.block.fence_gate.open": "Fence gate opens",
-		"subtitles.block.iron_door.close": "Iron door closes",
-		"subtitles.block.iron_door.open": "Iron door opens",
-		"subtitles.block.iron_trapdoor.close": "Iron trapdoor closes",
-		"subtitles.block.iron_trapdoor.open": "Iron trapdoor opens",
-		"subtitles.block.wooden_door.close": "Wooden door closes",
-		"subtitles.block.wooden_door.open": "Wooden door opens",
-		"subtitles.block.wooden_trapdoor.close": "Wooden trapdoor closes",
-		"subtitles.block.wooden_trapdoor.open": "Wooden trapdoor opens",
 		
 		"subtitles.entity.enderman.scream": "Enderman screeches",
 		"subtitles.entity.wolf.ambient": "Wolf barks",

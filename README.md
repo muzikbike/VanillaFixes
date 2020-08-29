@@ -1,6 +1,6 @@
 # VanillaFixes
 
-This respurce pack fixes the following texture and model issues:
+This resource pack fixes the following texture and model issues:
 
 * https://bugs.mojang.com/browse/MC-1483 - Snowy mycelium and podzol side textures are subtly different from their non-snowy counterparts
 * https://bugs.mojang.com/browse/MC-109087 - Several blocks do not use cullface where they should

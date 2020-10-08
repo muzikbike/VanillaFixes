@@ -6,6 +6,11 @@
             { "model": "block/mycelium", "y": 180 },
             { "model": "block/mycelium", "y": 270 }
         ],
-        "snowy=true": { "model": "block/snowy_mycelium" }
+        "snowy=true": [
+		    { "model": "block/snowy_mycelium" },
+            { "model": "block/snowy_mycelium", "y": 90 },
+            { "model": "block/snowy_mycelium", "y": 180 },
+            { "model": "block/snowy_mycelium", "y": 270 }
+		]
     }
 }

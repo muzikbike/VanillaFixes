@@ -6,6 +6,11 @@
             { "model": "block/podzol", "y": 180 },
             { "model": "block/podzol", "y": 270 }
         ],
-        "snowy=true": { "model": "block/snowy_podzol" }
+        "snowy=true": [
+		    { "model": "block/snowy_podzol" },
+            { "model": "block/snowy_podzol", "y": 90 },
+            { "model": "block/snowy_podzol", "y": 180 },
+            { "model": "block/snowy_podzol", "y": 270 }
+	    ]
     }
 }

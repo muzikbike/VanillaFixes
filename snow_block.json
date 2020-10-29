@@ -1,0 +1,150 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/snow_block"
+      },
+      {
+        "model": "minecraft:block/snow_block",
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/snow_block",
+        "x": 180
+      },
+      {
+        "model": "minecraft:block/snow_block",
+        "x": 270
+      },
+      {
+        "model": "minecraft:block/snow_block",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/snow_block",
+        "y": 90,
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/snow_block",
+        "y": 90,
+        "x": 180
+      },
+      {
+        "model": "minecraft:block/snow_block",
+        "y": 90,
+        "x": 270
+      },
+      {
+        "model": "minecraft:block/snow_block",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/snow_block",
+        "y": 180,
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/snow_block",
+        "y": 180,
+        "x": 180
+      },
+      {
+        "model": "minecraft:block/snow_block",
+        "y": 180,
+        "x": 270
+      },
+      {
+        "model": "minecraft:block/snow_block",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/snow_block",
+        "y": 270,
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/snow_block",
+        "y": 270,
+        "x": 180
+      },
+      {
+        "model": "minecraft:block/snow_block",
+        "y": 270,
+        "x": 270
+      },
+      {
+        "model": "minecraft:block/snow_block_mirrored"
+      },
+      {
+        "model": "minecraft:block/snow_block_mirrored",
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/snow_block_mirrored",
+        "x": 180
+      },
+      {
+        "model": "minecraft:block/snow_block_mirrored",
+        "x": 270
+      },
+      {
+        "model": "minecraft:block/snow_block_mirrored",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/snow_block_mirrored",
+        "y": 90,
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/snow_block_mirrored",
+        "y": 90,
+        "x": 180
+      },
+      {
+        "model": "minecraft:block/snow_block_mirrored",
+        "y": 90,
+        "x": 270
+      },
+      {
+        "model": "minecraft:block/snow_block_mirrored",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/snow_block_mirrored",
+        "y": 180,
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/snow_block_mirrored",
+        "y": 180,
+        "x": 180
+      },
+      {
+        "model": "minecraft:block/snow_block_mirrored",
+        "y": 180,
+        "x": 270
+      },
+      {
+        "model": "minecraft:block/snow_block_mirrored",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/snow_block_mirrored",
+        "y": 270,
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/snow_block_mirrored",
+        "y": 270,
+        "x": 180
+      },
+      {
+        "model": "minecraft:block/snow_block_mirrored",
+        "y": 270,
+        "x": 270
+      }
+    ]
+  }
+}

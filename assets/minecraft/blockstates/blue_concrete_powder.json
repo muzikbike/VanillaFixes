@@ -72,6 +72,78 @@
         "model": "minecraft:block/blue_concrete_powder",
         "y": 270,
         "x": 270
+      },
+      {
+        "model": "minecraft:block/blue_concrete_powder_mirrored"
+      },
+      {
+        "model": "minecraft:block/blue_concrete_powder_mirrored",
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/blue_concrete_powder_mirrored",
+        "x": 180
+      },
+      {
+        "model": "minecraft:block/blue_concrete_powder_mirrored",
+        "x": 270
+      },
+      {
+        "model": "minecraft:block/blue_concrete_powder_mirrored",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/blue_concrete_powder_mirrored",
+        "y": 90,
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/blue_concrete_powder_mirrored",
+        "y": 90,
+        "x": 180
+      },
+      {
+        "model": "minecraft:block/blue_concrete_powder_mirrored",
+        "y": 90,
+        "x": 270
+      },
+      {
+        "model": "minecraft:block/blue_concrete_powder_mirrored",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/blue_concrete_powder_mirrored",
+        "y": 180,
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/blue_concrete_powder_mirrored",
+        "y": 180,
+        "x": 180
+      },
+      {
+        "model": "minecraft:block/blue_concrete_powder_mirrored",
+        "y": 180,
+        "x": 270
+      },
+      {
+        "model": "minecraft:block/blue_concrete_powder_mirrored",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/blue_concrete_powder_mirrored",
+        "y": 270,
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/blue_concrete_powder_mirrored",
+        "y": 270,
+        "x": 180
+      },
+      {
+        "model": "minecraft:block/blue_concrete_powder_mirrored",
+        "y": 270,
+        "x": 270
       }
     ]
   }

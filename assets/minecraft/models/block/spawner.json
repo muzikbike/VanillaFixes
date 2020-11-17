@@ -1,6 +1,6 @@
 {
-  "parent": "minecraft:block/cube_all_inner",
+  "parent": "minecraft:block/cube_inner",
   "textures": {
-    "all": "minecraft:block/spawner"
+    "texture": "minecraft:block/spawner"
   }
 }

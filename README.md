@@ -3,6 +3,7 @@
 This resource pack fixes the following texture and model issues:
 
 * https://bugs.mojang.com/browse/MC-1483 - Snowy mycelium and podzol side textures are subtly different from their non-snowy counterparts
+* https://bugs.mojang.com/browse/MC-95103 - Shields are off-center when in dropped item form
 * https://bugs.mojang.com/browse/MC-109087 - Several blocks do not use cullface where they should
 * https://bugs.mojang.com/browse/MC-109531 - Snowy grass/mycelium/podzol blocks do not use the snow texture on top (will probably not be fixed in vanilla)
 * https://bugs.mojang.com/browse/MC-117879 - Quartz pillar's top texture does not connect with the lines as expected
@@ -13,6 +14,7 @@ This resource pack fixes the following texture and model issues:
 * https://bugs.mojang.com/browse/MC-193948 - Tripwire hook renders an unneeded face (will probably not be fixed in vanilla)
 * https://bugs.mojang.com/browse/MC-194192 - Potted cactus has an incorrect bottom texture
 * https://bugs.mojang.com/browse/MC-194950 - Potted cactus is squished vertically
+* https://bugs.mojang.com/browse/MC-201808 - Arrows are held weirdly
 * Adds random rotation to several blocks that did not have it before, as well as the sides of several blocks, to bring parity with Bedrock Edition
 
 This resource pack fixes the following text issues:

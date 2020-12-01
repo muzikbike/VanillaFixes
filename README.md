@@ -11,6 +11,8 @@ This resource pack fixes the following texture and model issues:
 * https://bugs.mojang.com/browse/MC-120417 - Dragon egg model has some squished pixels/a wrongly sized element
 * https://bugs.mojang.com/browse/MC-137957 - Sandstone and red sandstone walls use the wrong texture for the top and bottom
 * https://bugs.mojang.com/browse/MC-162803 - Lily pads are rendered mirrored
+* https://bugs.mojang.com/browse/MC-169969 - Spawners do not have inside textures
+* https://bugs.mojang.com/browse/MC-171859 - Leaves do not have inside textures
 * https://bugs.mojang.com/browse/MC-177452 - Repeaters render unneeded faces
 * https://bugs.mojang.com/browse/MC-177453 - Comparators render unneeded faces
 * https://bugs.mojang.com/browse/MC-182383 - Blackstone walls use the wrong texture for the top and bottom
@@ -18,9 +20,23 @@ This resource pack fixes the following texture and model issues:
 * https://bugs.mojang.com/browse/MC-193948 - Tripwire hook renders an unneeded face (will probably not be fixed in vanilla)
 * https://bugs.mojang.com/browse/MC-194192 - Potted cactus has an incorrect bottom texture
 * https://bugs.mojang.com/browse/MC-194950 - Potted cactus is squished vertically
+* https://bugs.mojang.com/browse/MC-199237 - Ladder texture plane is mirored incorrectly from behind
 * https://bugs.mojang.com/browse/MC-199238 - Dragon egg model has unneccessary faces and is missing cullface
+* https://bugs.mojang.com/browse/MC-199239 - Vine texture planes are mirored incorrectly from behind
+* https://bugs.mojang.com/browse/MC-199241 - Cross texture planes are mirored incorrectly from behind
+* https://bugs.mojang.com/browse/MC-199242 - Crop texture planes are mirored incorrectly from behind
+* https://bugs.mojang.com/browse/MC-199248 - Potted cross texture planes are mirored incorrectly from behind
 * https://bugs.mojang.com/browse/MC-201747 - Snowy grass blocks, mycelium and podzol are not rotated randomly
+* https://bugs.mojang.com/browse/MC-201748 - Chain texture planes are mirored incorrectly from behind
+* https://bugs.mojang.com/browse/MC-201750 - Bamboo leaf texture planes are mirored incorrectly from behind
+* https://bugs.mojang.com/browse/MC-201751 - Lantern chain texture planes are mirored incorrectly from behind
+* https://bugs.mojang.com/browse/MC-201753 - Sea pickle top texture planes are mirored incorrectly from behind
+* https://bugs.mojang.com/browse/MC-201760 - Sunflower cross texture planes are mirored incorrectly from behind
 * https://bugs.mojang.com/browse/MC-201808 - Arrows are held weirdly
+* https://bugs.mojang.com/browse/MC-202595 - Campfire texture planes are mirored incorrectly from behind
+* https://bugs.mojang.com/browse/MC-202598 - Seagrass texture planes are mirored incorrectly from behind
+* https://bugs.mojang.com/browse/MC-203036 - Coral wall fan texture planes are mirored incorrectly from behind
+* https://bugs.mojang.com/browse/MC-205158 - Powder snow texture planes are mirored incorrectly from behind
 * Adds random rotation to several blocks that did not have it before, as well as the sides of several blocks, to bring parity with Bedrock Edition
 
 This resource pack fixes the following text issues:

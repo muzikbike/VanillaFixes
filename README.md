@@ -3,6 +3,7 @@
 This resource pack fixes the following texture and model issues:
 
 * https://bugs.mojang.com/browse/MC-1483 - Snowy mycelium and podzol side textures are subtly different from their non-snowy counterparts
+* https://bugs.mojang.com/browse/MC-68302 - Potted plants, repeaters, comparators and pumpkin/melon stems are shaded even though they should not be (will probably not be fixed in vanilla)
 * https://bugs.mojang.com/browse/MC-95103 - Shields are off-center when in dropped item form
 * https://bugs.mojang.com/browse/MC-109055 - Fully grown cocoa pod top/bottom texture has incorrect pixel size
 * https://bugs.mojang.com/browse/MC-109087 - Several blocks do not use cullface where they should

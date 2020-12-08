@@ -55,3 +55,4 @@ This resource pack fixes the following text issues:
 * https://bugs.mojang.com/browse/MC-184622 - The sound for travelling through a portal does not use its subtitle
 * https://bugs.mojang.com/browse/MC-185379 - The baby polar bear subtitle doesn't say it's a baby polar bear
 
+Mojang have my full permission to implement these fixed assets into future Java Edition versions.

@@ -36,6 +36,7 @@ This resource pack fixes the following texture and model issues:
 * https://bugs.mojang.com/browse/MC-202595 - Campfire texture planes are mirored incorrectly from behind
 * https://bugs.mojang.com/browse/MC-202598 - Seagrass texture planes are mirored incorrectly from behind
 * https://bugs.mojang.com/browse/MC-203036 - Coral wall fan texture planes are mirored incorrectly from behind
+* https://bugs.mojang.com/browse/MC-203399 - Hoppers using the side texture on the bottom, making it look weird and directional
 * https://bugs.mojang.com/browse/MC-205158 - Powder snow texture planes are mirored incorrectly from behind
 * Adds random rotation to several blocks that did not have it before, as well as the sides of several blocks, to bring parity with Bedrock Edition
 

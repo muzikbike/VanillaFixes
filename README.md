@@ -19,7 +19,8 @@ This resource pack fixes the following texture and model issues:
 * https://bugs.mojang.com/browse/MC-177453 - Comparators render unneeded faces
 * https://bugs.mojang.com/browse/MC-182383 - Blackstone walls use the wrong texture for the top and bottom
 * https://bugs.mojang.com/browse/MC-183421 - Bell models have incorrectly sized pixels
-* https://bugs.mojang.com/browse/MC-190774 - Stonecutter's blade is incorrectly mirroed, causing it to go in both directions at once
+* https://bugs.mojang.com/browse/MC-190774 - Stonecutter's blade is incorrectly mirrored, causing it to go in both directions at once
+* https://bugs.mojang.com/browse/MC-191390 - Compost is not visible from beneath
 * https://bugs.mojang.com/browse/MC-193948 - Tripwire hook renders an unneeded face (will probably not be fixed in vanilla)
 * https://bugs.mojang.com/browse/MC-194192 - Potted cactus has an incorrect bottom texture
 * https://bugs.mojang.com/browse/MC-194950 - Potted cactus is squished vertically

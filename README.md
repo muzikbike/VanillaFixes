@@ -34,6 +34,7 @@ This resource pack fixes the following texture and model issues:
 * https://bugs.mojang.com/browse/MC-203399 - Hoppers use the side texture on the bottom, making it look weird and directional
 * https://bugs.mojang.com/browse/MC-205095 - Cauldron fluids aren't viewable from below, unlike normal fluids
 * https://bugs.mojang.com/browse/MC-205158 - Powder snow texture planes are mirrored incorrectly from behind
+* https://bugs.mojang.com/browse/MC-208191 - Candle cakes render an unneeded face
 
 This resource pack fixes the following text issues:
 

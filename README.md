@@ -31,7 +31,6 @@ This resource pack fixes the following texture and model issues:
 * https://bugs.mojang.com/browse/MC-201808 - Arrows are held weirdly
 * https://bugs.mojang.com/browse/MC-203399 - Hoppers use the side texture on the bottom, making it look weird and directional
 * https://bugs.mojang.com/browse/MC-205158 - Powder snow texture planes are mirrored incorrectly from behind
-* Adds random rotation to several blocks that did not have it before, as well as the sides of several blocks, to bring parity with Bedrock Edition
 
 This resource pack fixes the following text issues:
 

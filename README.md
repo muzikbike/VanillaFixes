@@ -5,6 +5,7 @@ This resource pack fixes the following texture and model issues:
 * https://bugs.mojang.com/browse/MC-1483 - Snowy mycelium and podzol side textures are subtly different from their non-snowy counterparts
 * https://bugs.mojang.com/browse/MC-68302 - Potted plants, repeaters, comparators and pumpkin/melon stems are shaded even though they should not be (will probably not be fixed in vanilla)
 * https://bugs.mojang.com/browse/MC-95103 - Shields are off-center when in dropped item form
+* https://bugs.mojang.com/browse/MC-96463 - Melon/pumpkin stem texture planes are mirrored, unlike other cross models
 * https://bugs.mojang.com/browse/MC-109055 - Fully grown cocoa pod top/bottom texture has incorrect pixel size
 * https://bugs.mojang.com/browse/MC-109087 - Several blocks do not use cullface where they should
 * https://bugs.mojang.com/browse/MC-109531 - Snowy grass/mycelium/podzol blocks do not use the snow texture on top (will probably not be fixed in vanilla)
@@ -18,6 +19,7 @@ This resource pack fixes the following texture and model issues:
 * https://bugs.mojang.com/browse/MC-177453 - Comparators render unneeded faces
 * https://bugs.mojang.com/browse/MC-182383 - Blackstone walls use the wrong texture for the top and bottom
 * https://bugs.mojang.com/browse/MC-183421 - Bell models have incorrectly sized pixels
+* https://bugs.mojang.com/browse/MC-190774 - Stonecutter's blade is incorrectly mirroed, causing it to go in both directions at once
 * https://bugs.mojang.com/browse/MC-193948 - Tripwire hook renders an unneeded face (will probably not be fixed in vanilla)
 * https://bugs.mojang.com/browse/MC-194192 - Potted cactus has an incorrect bottom texture
 * https://bugs.mojang.com/browse/MC-194950 - Potted cactus is squished vertically
@@ -30,6 +32,7 @@ This resource pack fixes the following texture and model issues:
 * https://bugs.mojang.com/browse/MC-201751 - Lantern chain texture planes are mirrored incorrectly from behind
 * https://bugs.mojang.com/browse/MC-201808 - Arrows are held weirdly
 * https://bugs.mojang.com/browse/MC-203399 - Hoppers use the side texture on the bottom, making it look weird and directional
+* https://bugs.mojang.com/browse/MC-205095 - Cauldron fluids aren't viewable from below, unlike normal fluids
 * https://bugs.mojang.com/browse/MC-205158 - Powder snow texture planes are mirrored incorrectly from behind
 
 This resource pack fixes the following text issues:
@@ -45,5 +48,6 @@ This resource pack fixes the following text issues:
 * https://bugs.mojang.com/browse/MC-177523 - The enderman screaming sound is incorrectly subtitles as its idle sound
 * https://bugs.mojang.com/browse/MC-184622 - The sound for travelling through a portal does not use its subtitle
 * https://bugs.mojang.com/browse/MC-185379 - The baby polar bear subtitle doesn't say it's a baby polar bear
+* https://bugs.mojang.com/browse/MC-204124 - The minecart's underwater riding sound has no subtitle
 
 Mojang have my full permission to implement these fixed assets into future Java Edition versions.

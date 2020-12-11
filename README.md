@@ -24,14 +24,11 @@ This resource pack fixes the following texture and model issues:
 * https://bugs.mojang.com/browse/MC-199237 - Ladder texture plane is mirrored incorrectly from behind
 * https://bugs.mojang.com/browse/MC-199238 - Dragon egg model has unneccessary faces and is missing cullface
 * https://bugs.mojang.com/browse/MC-199239 - Vine texture planes are mirrored incorrectly from behind
-* https://bugs.mojang.com/browse/MC-199242 - Crop texture planes are mirrored incorrectly from behind
 * https://bugs.mojang.com/browse/MC-201747 - Snowy grass blocks, mycelium and podzol are not rotated randomly
 * https://bugs.mojang.com/browse/MC-201748 - Chain texture planes are mirrored incorrectly from behind
 * https://bugs.mojang.com/browse/MC-201750 - Bamboo leaf texture planes are mirrored incorrectly from behind
 * https://bugs.mojang.com/browse/MC-201751 - Lantern chain texture planes are mirrored incorrectly from behind
 * https://bugs.mojang.com/browse/MC-201808 - Arrows are held weirdly
-* https://bugs.mojang.com/browse/MC-202598 - Seagrass texture planes are mirrored incorrectly from behind
-* https://bugs.mojang.com/browse/MC-203036 - Coral wall fan texture planes are mirrored incorrectly from behind
 * https://bugs.mojang.com/browse/MC-203399 - Hoppers use the side texture on the bottom, making it look weird and directional
 * https://bugs.mojang.com/browse/MC-205158 - Powder snow texture planes are mirrored incorrectly from behind
 * Adds random rotation to several blocks that did not have it before, as well as the sides of several blocks, to bring parity with Bedrock Edition

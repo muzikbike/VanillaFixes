@@ -11,6 +11,7 @@ This resource pack fixes the following texture and model issues:
 * https://bugs.mojang.com/browse/MC-109531 - Snowy grass/mycelium/podzol blocks do not use the snow texture on top (will probably not be fixed in vanilla)
 * https://bugs.mojang.com/browse/MC-117879 - Quartz pillar's top texture does not connect with the lines as expected
 * https://bugs.mojang.com/browse/MC-120417 - Dragon egg model has some squished pixels/a wrongly sized element
+* https://bugs.mojang.com/browse/MC-122701 - Sunflower heads are stretched
 * https://bugs.mojang.com/browse/MC-137957 - Sandstone and red sandstone walls use the wrong texture for the top and bottom
 * https://bugs.mojang.com/browse/MC-162803 - Lily pads are rendered mirrored
 * https://bugs.mojang.com/browse/MC-169969 - Spawners do not have inside textures

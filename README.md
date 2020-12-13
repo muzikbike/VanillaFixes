@@ -55,4 +55,4 @@ This resource pack fixes the following text issues:
 * https://bugs.mojang.com/browse/MC-185379 - The baby polar bear subtitle doesn't say it's a baby polar bear
 * https://bugs.mojang.com/browse/MC-204124 - The minecart's underwater riding sound has no subtitle
 
-Mojang have my full permission to implement these fixed assets into future Java Edition versions.
+Mojang have my full permission to (and are strongly encouraged to) implement these fixed assets into future Java Edition versions.

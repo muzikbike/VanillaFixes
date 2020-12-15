@@ -38,7 +38,7 @@ This resource pack fixes the following texture and model issues:
 * https://bugs.mojang.com/browse/MC-204446 - Lightning rods are not shaded at all
 * https://bugs.mojang.com/browse/MC-205095 - Cauldron fluids aren't viewable from below, unlike normal fluids
 * https://bugs.mojang.com/browse/MC-205158 - Powder snow texture planes are mirrored incorrectly from behind
-* https://bugs.mojang.com/browse/MC-208191 - Candle cakes render an unneeded face
+* https://bugs.mojang.com/browse/MC-208191 - Candle cakes render an unneeded face (will probably not be fixed in vanilla)
 
 This resource pack fixes the following text issues:
 

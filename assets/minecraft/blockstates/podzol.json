@@ -1,16 +1,38 @@
 {
-    "variants": {
-        "snowy=false": [
-            { "model": "block/podzol" },
-            { "model": "block/podzol", "y": 90 },
-            { "model": "block/podzol", "y": 180 },
-            { "model": "block/podzol", "y": 270 }
-        ],
-        "snowy=true": [
-		    { "model": "block/snowy_podzol" },
-            { "model": "block/snowy_podzol", "y": 90 },
-            { "model": "block/snowy_podzol", "y": 180 },
-            { "model": "block/snowy_podzol", "y": 270 }
-	    ]
-    }
+  "variants": {
+    "snowy=false": [
+      {
+        "model": "block/podzol"
+      },
+      {
+        "model": "block/podzol",
+        "y": 90
+      },
+      {
+        "model": "block/podzol",
+        "y": 180
+      },
+      {
+        "model": "block/podzol",
+        "y": 270
+      }
+    ],
+    "snowy=true": [
+      {
+        "model": "block/snowy_podzol"
+      },
+      {
+        "model": "block/snowy_podzol",
+        "y": 90
+      },
+      {
+        "model": "block/snowy_podzol",
+        "y": 180
+      },
+      {
+        "model": "block/snowy_podzol",
+        "y": 270
+      }
+    ]
+  }
 }

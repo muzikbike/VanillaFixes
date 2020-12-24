@@ -1,24 +1,18 @@
 {
-
-		"subtitles.ambient.underwater.enter": "Water splorches",
-		"subtitles.ambient.underwater.exit": "Water blouches",
-		
-		"subtitles.entity.polar_bear.ambient_baby": "Baby Polar Bear hums",
-		"subtitles.entity.turtle.death_baby": "Baby Turtle dies",
-		"subtitles.entity.turtle.hurt_baby": "Baby Turtle hurts",
-		"subtitles.entity.turtle.shamble_baby": "Baby Turtle shambles",
-		
-		"subtitles.entity.bat.loop": "Bat flutters",
-		"subtitles.entity.ghast.scream": "Ghast hoots",
-		"subtitles.entity.wolf.howl": "Wolf howls",
-		
-		"subtitles.entity.minecart.inside": "Minecart clatters",
-		"subtitles.entity.minecart.inside.underwater": "Minecart bubbles",
-		
-		"subtitles.item.elytra.flying": "Soaring",
-		
-		"subtitles.entity.enderman.scream": "Enderman screeches",
-		"subtitles.entity.wolf.ambient": "Wolf barks",
-		"subtitles.entity.wolf.pant": "Wolf pants",
-		"subtitles.entity.wolf.whine": "Wolf whines"
+  "subtitles.ambient.underwater.enter": "Water splorches",
+  "subtitles.ambient.underwater.exit": "Water blouches",
+  "subtitles.entity.bat.loop": "Bat flutters",
+  "subtitles.entity.enderman.scream": "Enderman screeches",
+  "subtitles.entity.ghast.scream": "Ghast hoots",
+  "subtitles.entity.minecart.inside": "Minecart clatters",
+  "subtitles.entity.minecart.inside.underwater": "Minecart bubbles",
+  "subtitles.entity.polar_bear.ambient_baby": "Baby Polar Bear hums",
+  "subtitles.entity.turtle.death_baby": "Baby Turtle dies",
+  "subtitles.entity.turtle.hurt_baby": "Baby Turtle hurts",
+  "subtitles.entity.turtle.shamble_baby": "Baby Turtle shambles",
+  "subtitles.entity.wolf.ambient": "Wolf barks",
+  "subtitles.entity.wolf.howl": "Wolf howls",
+  "subtitles.entity.wolf.pant": "Wolf pants",
+  "subtitles.entity.wolf.whine": "Wolf whines",
+  "subtitles.item.elytra.flying": "Soaring"
 }

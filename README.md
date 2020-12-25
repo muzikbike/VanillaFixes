@@ -28,6 +28,7 @@ This resource pack fixes the following texture and model issues:
 * https://bugs.mojang.com/browse/MC-199237 - Ladder texture plane is mirrored incorrectly from behind
 * https://bugs.mojang.com/browse/MC-199238 - Dragon egg model has unneccessary faces and is missing cullface
 * https://bugs.mojang.com/browse/MC-199239 - Vine texture planes are mirrored incorrectly from behind
+* https://bugs.mojang.com/browse/MC-201260 - Mycelium, podzol and nylium should now produce particles of their base blocks for grass block/dirt path consistency
 * https://bugs.mojang.com/browse/MC-201747 - Snowy grass blocks, mycelium and podzol are not rotated randomly
 * https://bugs.mojang.com/browse/MC-201748 - Chain texture planes are mirrored incorrectly from behind
 * https://bugs.mojang.com/browse/MC-201750 - Bamboo leaf texture planes are mirrored incorrectly from behind
@@ -39,6 +40,7 @@ This resource pack fixes the following texture and model issues:
 * https://bugs.mojang.com/browse/MC-205095 - Cauldron fluids aren't viewable from below, unlike normal fluids
 * https://bugs.mojang.com/browse/MC-205158 - Powder snow texture planes are mirrored incorrectly from behind
 * https://bugs.mojang.com/browse/MC-208191 - Candle cakes render an unneeded face (will probably not be fixed in vanilla)
+* Chests and trapped chests now have more fitting particles
 
 This resource pack fixes the following text issues:
 

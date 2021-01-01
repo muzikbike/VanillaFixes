@@ -5,16 +5,16 @@
         "vine": "block/vine"
     },
     "elements": [
-        {   "from": [ 0, 15.2, 0 ],
-            "to": [ 16, 15.2, 16 ],
+        {   "from": [ 0, 15.75, 0 ],
+            "to": [ 16, 15.75, 16 ],
             "shade": false,
             "faces": {
                 "down":  { "uv": [ 0, 0, 16, 16 ], "texture": "#vine", "tintindex": 0 },
                 "up":    { "uv": [ 0, 16, 16, 0 ], "texture": "#vine", "tintindex": 0 }
             }
         },
-        {   "from": [ 0, 0, 15.2 ],
-            "to": [ 16, 16, 15.2 ],
+        {   "from": [ 0, 0, 15.75 ],
+            "to": [ 16, 16, 15.75 ],
             "shade": false,
             "faces": {
                 "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#vine", "tintindex": 0 },

@@ -12,6 +12,7 @@ This resource pack fixes the following texture and model issues:
 * https://bugs.mojang.com/browse/MC-117879 - Quartz pillar's top texture does not connect with the lines as expected
 * https://bugs.mojang.com/browse/MC-120417 - Dragon egg model has some squished pixels/a wrongly sized element
 * https://bugs.mojang.com/browse/MC-122701 - Sunflower heads are stretched
+* https://bugs.mojang.com/browse/MC-129108 - The back faces of cacti and redstone torches do not render even when it would be expected they would
 * https://bugs.mojang.com/browse/MC-137957 - Sandstone and red sandstone walls use the wrong texture for the top and bottom
 * https://bugs.mojang.com/browse/MC-155551 - Ladders, vines and rails float off of their supprot blocks a bit too much; inconsistent with redstone/lily pads
 * https://bugs.mojang.com/browse/MC-162803 - Lily pads are rendered mirrored

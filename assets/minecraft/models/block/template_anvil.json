@@ -8,6 +8,11 @@
             "rotation": [ 0, 90, 0 ],
             "translation": [ 0, 0, 0 ],
             "scale": [ 0.5, 0.5, 0.5 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 90, 315, 0 ],
+            "translation": [ 0, 3, 0 ],
+            "scale": [ 0.40, 0.40, 0.40 ]
         }
     },
     "elements": [

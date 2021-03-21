@@ -5,8 +5,8 @@
         "texture": "block/ladder"
     },
     "elements": [
-        {   "from": [ 0, 0, 15.75 ],
-            "to": [ 16, 16, 15.75 ],
+        {   "from": [ 0, 0, 15.9 ],
+            "to": [ 16, 16, 15.9 ],
             "shade": false,
             "faces": {
                 "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },

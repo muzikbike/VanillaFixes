@@ -4,10 +4,10 @@
         "particle": "#rail"
     },
     "elements": [
-        {   "from": [ 0, 8.25, 0 ],
-            "to": [ 16, 8.25, 16 ],
+        {   "from": [ 0, 8.1, 0 ],
+            "to": [ 16, 8.1, 16 ],
             "rotation": {
-                "origin": [ 8, 8.25, 8 ],
+                "origin": [ 8, 8.1, 8 ],
                 "axis": "x",
                 "angle": -45,
                 "rescale": true

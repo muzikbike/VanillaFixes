@@ -2,8 +2,7 @@
 
 This resource pack fixes the following texture and model issues:
 
-* https://bugs.mojang.com/browse/MC-1483 - Snowy mycelium and podzol side textures are subtly different from their non-snowy counterparts
-* https://bugs.mojang.com/browse/MC-68302 - Potted plants, repeaters, comparators and pumpkin/melon stems are shaded even though they should not be (will probably not be fixed in vanilla)
+* https://bugs.mojang.com/browse/MC-68302 - Potted plants, repeaters, comparators, pumpkin/melon stems and brewing stands are shaded even though they should not be (will probably not be fixed in vanilla)
 * https://bugs.mojang.com/browse/MC-95103 - Shields are off-center when in dropped item form
 * https://bugs.mojang.com/browse/MC-96463 - Melon/pumpkin stem texture planes are mirrored, unlike other cross models
 * https://bugs.mojang.com/browse/MC-109055 - Fully grown cocoa pod top/bottom texture has incorrect pixel size
@@ -14,7 +13,7 @@ This resource pack fixes the following texture and model issues:
 * https://bugs.mojang.com/browse/MC-122701 - Sunflower heads are stretched
 * https://bugs.mojang.com/browse/MC-129108 - The back faces of cacti and redstone torches do not render even when it would be expected they would
 * https://bugs.mojang.com/browse/MC-137957 - Sandstone and red sandstone walls use the wrong texture for the top and bottom
-* https://bugs.mojang.com/browse/MC-155551 - Ladders, vines and rails float off of their supprot blocks a bit too much; inconsistent with redstone/lily pads
+* https://bugs.mojang.com/browse/MC-155551 - Ladders, vines and rails float off of their support blocks a bit too much; inconsistent with redstone/lily pads
 * https://bugs.mojang.com/browse/MC-162803 - Lily pads are rendered mirrored
 * https://bugs.mojang.com/browse/MC-169969 - Spawners do not have inside textures
 * https://bugs.mojang.com/browse/MC-171859 - Leaves do not have inside textures
@@ -46,6 +45,7 @@ This resource pack fixes the following texture and model issues:
 * https://bugs.mojang.com/browse/MC-214625 - Redstone torches are unaffected by shading when inactive
 * https://bugs.mojang.com/browse/MC-214693 - Tripwire faces are mirrored incorrectly from behind
 * https://bugs.mojang.com/browse/MC-214693 - Tripwire hook tripwire attachment faces are mirrored incorrectly from behind
+* https://bugs.mojang.com/browse/MC-219843 - Mycelium's side texture has different dirt from all other blocks
 * Chests and trapped chests now have more fitting particles
 
 This resource pack fixes the following text issues:

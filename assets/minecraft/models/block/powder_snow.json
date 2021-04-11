@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_inner",
-  "textures": {
-    "texture": "minecraft:block/powder_snow"
-  }
-}

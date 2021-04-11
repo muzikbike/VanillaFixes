@@ -36,6 +36,7 @@ This resource pack fixes the following texture and model issues:
 * https://bugs.mojang.com/browse/MC-214625 - Redstone torches are unaffected by shading when inactive
 * https://bugs.mojang.com/browse/MC-214700 - Spore blossom top leaf is incorrectly mirrored
 * https://bugs.mojang.com/browse/MC-219843 - Mycelium's side texture has different dirt from all other blocks
+* https://bugs.mojang.com/browse/MC-222943 - Candle wick planes not mirrored as one would expect
 * Chests and trapped chests now have more fitting particles
 
 This resource pack fixes the following text issues:

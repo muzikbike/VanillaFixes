@@ -20,7 +20,7 @@ This resource pack fixes the following texture and model issues:
 * https://bugs.mojang.com/browse/MC-177452 - Repeaters render unneeded faces
 * https://bugs.mojang.com/browse/MC-177453 - Comparators render unneeded faces
 * https://bugs.mojang.com/browse/MC-182383 - Blackstone walls use the wrong texture for the top and bottom
-* https://bugs.mojang.com/browse/MC-182716 - Fence items have two psots but wall items only have one
+* https://bugs.mojang.com/browse/MC-182716 - Fence items have two posts but wall items only have one
 * https://bugs.mojang.com/browse/MC-183421 - Bell models have incorrectly sized pixels
 * https://bugs.mojang.com/browse/MC-190774 - Stonecutter's blade is incorrectly mirrored, causing it to go in both directions at once
 * https://bugs.mojang.com/browse/MC-191390 - Compost is not visible from beneath
@@ -32,7 +32,7 @@ This resource pack fixes the following texture and model issues:
 * https://bugs.mojang.com/browse/MC-201260 - Mycelium, podzol and nylium should now produce particles of their base blocks for grass block/dirt path consistency
 * https://bugs.mojang.com/browse/MC-201747 - Snowy grass blocks, mycelium and podzol are not rotated randomly
 * https://bugs.mojang.com/browse/MC-201748 - Chain texture planes are mirrored incorrectly from behind
-* https://bugs.mojang.com/browse/MC-201750 - Bamboo leaf texture planes are mirrored incorrectly from behind
+* https://bugs.mojang.com/browse/MC-201750 - Bamboo leaf texture planes are mirrored incorrectly from behind (will probably not be fixed in vanilla)
 * https://bugs.mojang.com/browse/MC-201751 - Lantern chain texture planes are mirrored incorrectly from behind
 * https://bugs.mojang.com/browse/MC-201808 - Arrows are held weirdly
 * https://bugs.mojang.com/browse/MC-203399 - Hoppers use the side texture on the bottom, making it look weird and directional

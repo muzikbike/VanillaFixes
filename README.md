@@ -34,6 +34,7 @@ This resource pack fixes the following texture and model issues:
 * https://bugs.mojang.com/browse/MC-205095 - Cauldron fluids aren't viewable from below, unlike normal fluids
 * https://bugs.mojang.com/browse/MC-208191 - Candle cakes render an unneeded face (will probably not be fixed in vanilla)
 * https://bugs.mojang.com/browse/MC-214625 - Redstone torches are unaffected by shading when inactive
+* https://bugs.mojang.com/browse/MC-214700 - Spore blossom top leaf is incorrectly mirrored
 * https://bugs.mojang.com/browse/MC-219843 - Mycelium's side texture has different dirt from all other blocks
 * Chests and trapped chests now have more fitting particles
 

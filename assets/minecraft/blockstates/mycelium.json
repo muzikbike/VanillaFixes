@@ -19,18 +19,18 @@
     ],
     "snowy=true": [
       {
-        "model": "block/snowy_mycelium"
+        "model": "block/grass_block_snow"
       },
       {
-        "model": "block/snowy_mycelium",
+        "model": "block/grass_block_snow",
         "y": 90
       },
       {
-        "model": "block/snowy_mycelium",
+        "model": "block/grass_block_snow",
         "y": 180
       },
       {
-        "model": "block/snowy_mycelium",
+        "model": "block/grass_block_snow",
         "y": 270
       }
     ]

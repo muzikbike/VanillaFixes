@@ -24,7 +24,6 @@ This resource pack fixes the following texture and model issues:
 * https://bugs.mojang.com/browse/MC-183421 - Bell models have incorrectly sized pixels
 * https://bugs.mojang.com/browse/MC-190774 - Stonecutter's blade is incorrectly mirrored, causing it to go in both directions at once
 * https://bugs.mojang.com/browse/MC-191390 - Compost is not visible from beneath
-* https://bugs.mojang.com/browse/MC-193948 - Tripwire hook renders an unneeded face (will probably not be fixed in vanilla)
 * https://bugs.mojang.com/browse/MC-194192 - Potted cactus has an incorrect bottom texture
 * https://bugs.mojang.com/browse/MC-194950 - Potted cactus is squished vertically
 * https://bugs.mojang.com/browse/MC-199237 - Ladder texture plane is mirrored incorrectly from behind
@@ -43,8 +42,6 @@ This resource pack fixes the following texture and model issues:
 * https://bugs.mojang.com/browse/MC-205158 - Powder snow texture planes are mirrored incorrectly from behind
 * https://bugs.mojang.com/browse/MC-208191 - Candle cakes render an unneeded face (will probably not be fixed in vanilla)
 * https://bugs.mojang.com/browse/MC-214625 - Redstone torches are unaffected by shading when inactive
-* https://bugs.mojang.com/browse/MC-214693 - Tripwire faces are mirrored incorrectly from behind
-* https://bugs.mojang.com/browse/MC-214693 - Tripwire hook tripwire attachment faces are mirrored incorrectly from behind
 * https://bugs.mojang.com/browse/MC-219843 - Mycelium's side texture has different dirt from all other blocks
 * Chests and trapped chests now have more fitting particles
 

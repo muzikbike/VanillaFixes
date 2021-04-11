@@ -30,6 +30,7 @@ This resource pack fixes the following texture and model issues:
 * https://bugs.mojang.com/browse/MC-201747 - Snowy grass blocks, mycelium and podzol are not rotated randomly
 * https://bugs.mojang.com/browse/MC-201750 - Bamboo leaf texture planes are mirrored incorrectly from behind (will probably not be fixed in vanilla)
 * https://bugs.mojang.com/browse/MC-201808 - Arrows are held weirdly
+* https://bugs.mojang.com/browse/MC-203036 - Coral fan planes are not mirrored right
 * https://bugs.mojang.com/browse/MC-203399 - Hoppers use the side texture on the bottom, making it look weird and directional
 * https://bugs.mojang.com/browse/MC-205095 - Cauldron fluids aren't viewable from below, unlike normal fluids
 * https://bugs.mojang.com/browse/MC-208191 - Candle cakes render an unneeded face (will probably not be fixed in vanilla)

@@ -39,6 +39,7 @@ This resource pack fixes the following texture and model issues:
 * https://bugs.mojang.com/browse/MC-203399 - Hoppers use the side texture on the bottom, making it look weird and directional
 * https://bugs.mojang.com/browse/MC-205095 - Cauldron fluids aren't viewable from below, unlike normal fluids
 * https://bugs.mojang.com/browse/MC-214625 - Redstone torches are unaffected by shading when inactive
+* https://bugs.mojang.com/browse/MC-214693 - Tripwire faces are mirrored incorrectly from behind
 * https://bugs.mojang.com/browse/MC-219843 - Mycelium's side texture has different dirt from all other blocks
 * Chests and trapped chests now have more fitting particles
 

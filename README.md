@@ -1,5 +1,7 @@
 # VanillaFixes
 
+*This branch is designed for Minecraft 1.16.x only. If you're using a newer version, make sure to use the `master` branch for the latest fixes.*
+
 This resource pack fixes the following texture and model issues:
 
 * https://bugs.mojang.com/browse/MC-68302 - Potted plants, repeaters, comparators, pumpkin/melon stems and brewing stands are shaded even though they should not be (will probably not be fixed in vanilla)
@@ -33,12 +35,8 @@ This resource pack fixes the following texture and model issues:
 * https://bugs.mojang.com/browse/MC-203036 - Coral fan planes are not mirrored right
 * https://bugs.mojang.com/browse/MC-203399 - Hoppers use the side texture on the bottom, making it look weird and directional
 * https://bugs.mojang.com/browse/MC-205095 - Cauldron fluids aren't viewable from below, unlike normal fluids
-* https://bugs.mojang.com/browse/MC-208191 - Candle cakes render an unneeded face (will probably not be fixed in vanilla)
 * https://bugs.mojang.com/browse/MC-214625 - Redstone torches are unaffected by shading when inactive
-* https://bugs.mojang.com/browse/MC-214700 - Spore blossom top leaf is incorrectly mirrored
 * https://bugs.mojang.com/browse/MC-219843 - Mycelium's side texture has different dirt from all other blocks
-* https://bugs.mojang.com/browse/MC-221851 - Dripleaf planes not mirrored correctly when tilted
-* https://bugs.mojang.com/browse/MC-222943 - Candle wick planes not mirrored as one may expect
 * Chests and trapped chests now have more fitting particles
 
 This resource pack fixes the following text issues:

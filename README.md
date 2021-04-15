@@ -4,6 +4,7 @@
 
 This resource pack fixes the following texture and model issues:
 
+* https://bugs.mojang.com/browse/MC-1483 - Snowy mycelium and podzol side textures are subtly different from their non-snowy counterparts
 * https://bugs.mojang.com/browse/MC-68302 - Potted plants, repeaters, comparators, pumpkin/melon stems and brewing stands are shaded even though they should not be (will probably not be fixed in vanilla)
 * https://bugs.mojang.com/browse/MC-95103 - Shields are off-center when in dropped item form
 * https://bugs.mojang.com/browse/MC-96463 - Melon/pumpkin stem texture planes are mirrored, unlike other cross models

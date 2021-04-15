@@ -30,6 +30,7 @@ This resource pack fixes the following texture and model issues:
 * https://bugs.mojang.com/browse/MC-193948 - Tripwire hook renders an unneeded face (will probably not be fixed in vanilla)
 * https://bugs.mojang.com/browse/MC-194192 - Potted cactus has an incorrect bottom texture
 * https://bugs.mojang.com/browse/MC-194950 - Potted cactus is squished vertically
+* https://bugs.mojang.com/browse/MC-199237 - Ladder texture plane is mirrored incorrectly from behind
 * https://bugs.mojang.com/browse/MC-199238 - Dragon egg model has unneccessary faces and is missing cullface
 * https://bugs.mojang.com/browse/MC-199239 - Vine texture planes are mirrored incorrectly from behind
 * https://bugs.mojang.com/browse/MC-201260 - Mycelium, podzol and nylium should now produce particles of their base blocks for grass block/dirt path consistency

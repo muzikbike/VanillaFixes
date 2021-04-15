@@ -31,6 +31,7 @@ This resource pack fixes the following texture and model issues:
 * https://bugs.mojang.com/browse/MC-199238 - Dragon egg model has unneccessary faces and is missing cullface
 * https://bugs.mojang.com/browse/MC-201260 - Mycelium, podzol and nylium should now produce particles of their base blocks for grass block/dirt path consistency
 * https://bugs.mojang.com/browse/MC-201747 - Snowy grass blocks, mycelium and podzol are not rotated randomly
+* https://bugs.mojang.com/browse/MC-201748 - Chain texture planes are mirrored incorrectly from behind
 * https://bugs.mojang.com/browse/MC-201750 - Bamboo leaf texture planes are mirrored incorrectly from behind (will probably not be fixed in vanilla)
 * https://bugs.mojang.com/browse/MC-201751 - Lantern chain texture planes are mirrored incorrectly from behind
 * https://bugs.mojang.com/browse/MC-201808 - Arrows are held weirdly

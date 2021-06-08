@@ -1,6 +1,6 @@
 # VanillaFixes
 
-*This branch is designed for Minecraft 1.16.x only. If you're using a newer version, make sure to use the `master` branch for the latest fixes.*
+*This branch is designed for Minecraft 1.16.x only. If you're using a newer version, make sure to use the `main` branch for the latest fixes.*
 
 This resource pack fixes the following texture and model issues:
 

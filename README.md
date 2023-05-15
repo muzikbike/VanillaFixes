@@ -1,5 +1,7 @@
 # VanillaFixes
 
+(NOTE: All of this is quite outdated, but many of these issues still do exist in vanilla... I should really redo this some time soon.)
+
 This resource pack fixes the following texture and model issues:
 
 * https://bugs.mojang.com/browse/MC-68302 - Potted plants, repeaters, comparators, pumpkin/melon stems and brewing stands are shaded even though they should not be (will probably not be fixed in vanilla)
